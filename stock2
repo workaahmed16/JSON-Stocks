@@ -1,0 +1,7 @@
+{
+  "Stocks":
+  [
+    {"Ticker":"AAXN","Name":"Axon Enterprise, Inc","PERatio":"7,271","Description":"This company started out in Scottsdale, Arizona. Its initial product was tasers for law enforcement. It has evolved to sell body cameras and organize footage for law enforcement in cloud environments. Its a great company to invest in because its growing at a fast clip and it has a predictable income from contracts with large law enforcement agencies.","Logo":"https://www.safelogic.com/wp-content/uploads/2017/02/axon_logo2x.jpg","Picture":"https://www.nokia.com/blog/sites/blog_nokia_com/files/styles/blog_post_image/public/blogs/1567749353900-750_23261.jpg","YahooFinanceLink":"https://finance.yahoo.com/quote/AAXN/"}
+  ],
+  "Status":"OK"
+}
